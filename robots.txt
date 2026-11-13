@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marakini.sanchaya.net/sitemap.xml
